@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Paaji+2:wght@700&display=swap');
+.Header{
+    display: flex;
+    width: 100vw;
+    height: fit-content;
+}
+
+.Header img{
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.Header h3{
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 14px;
+    color: #101010;
+    margin-right: 25px;
+    margin-top: 30px;
+}

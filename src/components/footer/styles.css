@@ -1,0 +1,57 @@
+.Footer{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.icon{
+    width: 20px;
+    height: 20px;
+    color: #323232;
+    align-self: center;
+}
+.section-one{
+    display: flex;
+    justify-content: space-around;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+.list h2{
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 18px;
+}
+.list li{
+   color: #00000080;
+   font-family: 'Baloo Paaji 2', cursive;
+   font-size: 12px;
+   font-weight: 500;
+   width: 160px;
+}
+.list ul{
+    list-style: none;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+    margin-left: 35px;
+}
+.section-two{
+    display: flex;
+    justify-content: space-around;
+    color: #00000080;
+   font-family: 'Baloo Paaji 2', cursive;
+   font-size: 12px;
+   font-weight: 500;
+   letter-spacing: 2px;
+   margin-top: 40px;
+}
+.section-two h3{
+    margin-left: 20px;
+}
+.section-two h4{
+    margin-right: 20px;
+}
