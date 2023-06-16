@@ -1,0 +1,43 @@
+.SectionFive {
+    display: flex;
+    width: 100vw;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+    background-color: #F7E4BC;
+    margin-bottom: 60px;
+}
+.infoss{
+    margin-left: 130px;
+}
+.infoss h1 {
+    font-family: 'Baloo Paaji 2';
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    width: 680px;
+}
+
+.infoss p {
+    font-family: 'Baloo Paaji 2';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0.18em;
+    text-align: left;
+    width: 659px;
+   color: #727272;
+}
+.SectionFive button {
+    width: 150px;
+    height: 49px;
+    color: #FFFF;
+    font-size: 18px;
+    letter-spacing: 0.09em;
+    background-color: #D167EE;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+}

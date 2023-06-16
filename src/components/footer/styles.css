@@ -1,57 +1,73 @@
-.Footer{
-    margin: 30px;
+.Footer {
+    width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
+
 }
-.icon{
-    width: 20px;
-    height: 20px;
-    color: #323232;
-    align-self: center;
-}
-.section-one{
+
+.section-one {
     display: flex;
     justify-content: space-around;
 }
-.list{
+
+
+.list {
     display: flex;
     flex-direction: column;
     justify-items: center;
 }
-.list h2{
+
+.list h2 {
     font-family: 'Baloo Paaji 2', cursive;
     font-size: 18px;
 }
-.list li{
-   color: #00000080;
-   font-family: 'Baloo Paaji 2', cursive;
-   font-size: 12px;
-   font-weight: 500;
-   width: 160px;
+
+.list li {
+    color: #00000080;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 12px;
+    font-weight: 500;
+    width: 160px;
 }
-.list ul{
+
+.list ul {
     list-style: none;
 }
-.icons{
+
+.icons {
     display: flex;
     justify-content: space-between;
     width: 160px;
     margin-left: 35px;
 }
-.section-two{
+
+.icon {
+    width: 20px;
+    height: 20px;
+    color: #323232;
+    align-self: center;
+}
+
+
+.section-two {
     display: flex;
-    justify-content: space-around;
+    width: 90%;
+    justify-content: space-between;
     color: #00000080;
-   font-family: 'Baloo Paaji 2', cursive;
-   font-size: 12px;
-   font-weight: 500;
-   letter-spacing: 2px;
-   margin-top: 40px;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    align-self: center;
 }
-.section-two h3{
-    margin-left: 20px;
+
+.menu {
+    display: flex;
+    justify-content: space-between;
 }
-.section-two h4{
+
+.menu h4 {
     margin-right: 20px;
 }

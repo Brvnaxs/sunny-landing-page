@@ -48,10 +48,12 @@ export default function Footer() {
             </div>
             <div className='section-two'>
                 <h3>Copyright @2023 Sunny Education. All Right Reserved</h3>
+                <div className='menu'>
                 <h4>Início</h4>
                 <h4>Equipe</h4>
                 <h4>Privacidade e Política</h4>
                 <h4>Contato</h4>
+                </div>
             </div>
         </div>
     )

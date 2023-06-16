@@ -1,0 +1,79 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.Home {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Baloo Paaji 2', cursive;
+    margin-top: 140px;
+    margin-bottom: 60px;
+}
+
+.img12 {
+    height: 619px;
+    width: 286px;
+}
+
+.img2 {
+    height: 285px;
+    width: 271px;
+    margin-top: 84px;
+}
+
+.Home h1 {
+    font-family: 'Baloo Paaji' 2;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    width: 438px;
+    margin-top: 168px;
+}
+
+.Home p {
+    font-family: 'Baloo Paaji' 2;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    color: #727272;
+    width: 549px;
+}
+
+.buttons {
+    display: flex;
+}
+
+.Home button {
+    border: 3px solid #101010;
+    outline: none;
+    height: 52px;
+    width: 193px;
+    border-radius: 23px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    padding: 20px;
+    background: none;
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 12px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 12px;
+    margin-right: 26px;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+    color: #101010;
+    font-weight: 700;
+    margin-right: 9px;
+}

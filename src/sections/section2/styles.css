@@ -1,0 +1,50 @@
+.SectionTwo {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.SectionTwo h1 {
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    width: 315px;
+}
+
+.SectionTwo p {
+    width: 538px;
+    font-family: 'Baloo Paaji 2';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.09em;
+    text-align: left;
+    color: #727272;
+}
+
+.SectionTwo button {
+    width: 150px;
+    height: 49px;
+    color: #FFFF;
+    font-size: 18px;
+    letter-spacing: 0.09em;
+    background-color: #D167EE;
+    border: none;
+    outline: none;
+    border-radius: 25px;
+}
+
+.img1 {
+    height: 682px;
+    width: 431.01318359375px;
+}
+
+.img2 {
+    margin-top: 178px;
+    height: 281px;
+    width: 294px;
+}

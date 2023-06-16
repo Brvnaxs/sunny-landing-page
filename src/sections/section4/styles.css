@@ -1,0 +1,33 @@
+.SectionFour {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    margin-bottom: 60px;
+}
+
+.SectionFour h1 {
+    font-family: 'Baloo Paaji 2';
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0.09em;
+    text-align: center;
+    color: #101010;
+}
+
+.text {
+    font-family: 'Baloo Paaji 2';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0.09em;
+    text-align: center;
+    color: #727272;
+}
+
+.cards {
+    margin-top: 53px;
+    display: flex;
+    justify-content: space-around;
+}
