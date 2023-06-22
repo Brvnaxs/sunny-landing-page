@@ -1,6 +1,6 @@
 import './styles.css';
 import logo from '../../assets/logo.png'
-import { TfiEmail } from 'react-icons/Tfi'
+import { TfiEmail } from 'react-icons/tfi'
 import { HiOutlinePhone } from 'react-icons/Hi'
 import { GrLocation } from 'react-icons/Gr'
 import { SlSocialGoogle, SlSocialTwitter, SlSocialInstagram, SlSocialLinkedin } from 'react-icons/Sl'
