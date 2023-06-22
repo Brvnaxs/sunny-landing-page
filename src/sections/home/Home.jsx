@@ -8,8 +8,8 @@ export default function Home() {
         <div className='home-container'>
             <Header />
         <div className='Home'>
-            <img src={telaApp} className='img12' alt="Tela App Sunny Education" />
-            <img src={boneco} className='img2' alt="Personagem do jogo Sunny Education" />
+            <img src={telaApp} className='tela-app' alt="Tela App Sunny Education" />
+            <img src={boneco} className='boneco' alt="Personagem do jogo Sunny Education" />
             <div className='infos'>
                 <h1>Aprender facilmente com diversão</h1>
                 <p>É hora de começar uma nova diversão com as crianças.

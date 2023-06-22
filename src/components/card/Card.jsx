@@ -8,7 +8,7 @@ export default function Card({number, title, text}) {
             <p>
                 {text}
             </p>
-            <span>Saiba mais</span>
+            <span>Saiba mais &gt;&gt;</span>
         </div>
     )
 }

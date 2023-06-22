@@ -1,9 +1,9 @@
 import './styles.css';
 import logo from '../../assets/logo.png'
-import { TfiEmail } from 'react-icons/Tfi'
-import { HiOutlinePhone } from 'react-icons/Hi'
-import { GrLocation } from 'react-icons/Gr'
-import { SlSocialGoogle, SlSocialTwitter, SlSocialInstagram, SlSocialLinkedin } from 'react-icons/Sl'
+import { TfiEmail } from 'react-icons/tfi'
+import { HiOutlinePhone } from 'react-icons/hi'
+import { GrLocation } from 'react-icons/gr'
+import { SlSocialGoogle, SlSocialTwitter, SlSocialInstagram, SlSocialLinkedin } from 'react-icons/sl'
 export default function Footer() {
     return (
         <div className='Footer'>

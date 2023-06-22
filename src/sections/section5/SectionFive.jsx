@@ -4,7 +4,7 @@ export default function SectionFive(){
     return(
         <div className='SectionFive'>
             <img src={imagem} alt="" />
-            <div className='infoss'>
+            <div className='infos-4'>
                 <h1>A melhor escolha para um novo estilo de vida</h1>
                 <p>
                 O Sunny Education, foi feito por especialistas na área da saúde(Fonoaudiólogos) e Psicólogos na área educativa.

@@ -1,0 +1,21 @@
+.SectionSix{
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url('../../assets/Group 81 (4).png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.SectionSix h1{
+    font-size: 30px;
+    color: #101010;
+    width: 365px;
+    text-align: center;
+    align-self: center;
+    margin-bottom: 80px;
+}
+.ratings{
+    display: flex;
+    justify-content: space-around;
+}
