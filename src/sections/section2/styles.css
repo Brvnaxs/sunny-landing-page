@@ -1,6 +1,7 @@
 .SectionTwo {
     display: flex;
     width: 100vw;
+    height: 90vh;
     justify-content: center;
     margin-bottom: 60px;
     margin-top: 60px;
