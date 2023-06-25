@@ -8,9 +8,10 @@
     background-position: right;
     display: flex;
     align-items: center;
+    overflow-x: hidden;
 }
 .infos-3{
-    margin-left: 50%;
+    margin-left: 35%;
 }
 
 .SectionThree h1 {
