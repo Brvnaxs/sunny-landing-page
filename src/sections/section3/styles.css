@@ -1,20 +1,16 @@
 .SectionThree {
-    width: 100%;
-    height: 100%;
+    width: 100vw;
+    height: 100vh;
     overflow-y: hidden;
     margin-bottom: 60px;
+    background-image: url('../../assets/Group 88.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    align-items: center;
 }
-
-.SectionThree img {
-    width: 90vw;
-    margin-left: 10%;
-    position: static;
-}
-
-.infos-3 {
-    position: absolute;
-    top: 1880px;
-    Left: 656px;
+.infos-3{
+    margin-left: 50%;
 }
 
 .SectionThree h1 {

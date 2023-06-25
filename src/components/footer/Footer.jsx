@@ -11,8 +11,8 @@ export default function Footer() {
                 <div className='list'>
                     <img src={logo} alt="" />
                     <ul>
-                        <li><TfiEmail className='icon'/>  educa.sunny@gmail.com</li>
-                        <li><HiOutlinePhone className='icon'/>  +55 81 9 8817-3072</li>
+                        <li><TfiEmail className='icon-footer'/>  educa.sunny@gmail.com</li>
+                        <li><HiOutlinePhone className='icon-footer'/>  +55 81 9 8817-3072</li>
                     </ul>
                 </div>
                 <div className='list'>
@@ -36,13 +36,13 @@ export default function Footer() {
                 <div className='list'>
                     <h2>Onde nos encontrar</h2>
                     <ul>
-                        <li><GrLocation className='icon'/>  R. Marquês de Valença, 470 - Boa Viagem, Recife - PE, 51021-500</li>
+                        <li><GrLocation className='icon-footer'/>  R. Marquês de Valença, 470 - Boa Viagem, Recife - PE, 51021-500</li>
                     </ul>
                     <div className='icons'>
-                        <SlSocialGoogle className='icon'/>
-                        <SlSocialTwitter className='icon'/>
-                        <SlSocialInstagram className='icon'/>
-                        <SlSocialLinkedin className='icon'/>
+                        <SlSocialGoogle className='icon-footer'/>
+                        <SlSocialTwitter className='icon-footer'/>
+                        <SlSocialInstagram className='icon-footer'/>
+                        <SlSocialLinkedin className='icon-footer'/>
                     </div>
                 </div>
             </div>

@@ -3,7 +3,6 @@ import tela3 from '../../assets/Group 88.png'
 export default function SectionThree(){
     return(
         <div className='SectionThree'>
-            <img src={tela3} alt="" />
             <div className='infos-3'>
                 <h1>Ajude seu filho em seu desenvolvimento e habilidades</h1>
                 <p>

@@ -8,7 +8,6 @@ export default function SectionSeven(){
     }
     return(
         <div className='SectionSeven'>
-            <img src={imagem} alt="" />
             <div className='news-letter'>
                 <p>
                 Receba conteúdo exclusivo, dicas, atualizações de nossas redes e novidades do mundo Sunny.

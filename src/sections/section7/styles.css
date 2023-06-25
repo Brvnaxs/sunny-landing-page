@@ -1,39 +1,45 @@
-.SectionSeven{
+.SectionSeven {
     width: 100vw;
+    height: 100vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    background-image: url('../../assets/Group 93.png');
+    background-repeat: no-repeat;
+    background-position: center;
 }
-.news-letter{
+
+.news-letter {
+    margin-top: 10px;
+    align-self: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 80vw;
     font-family: 'Baloo Paaji 2';
-    position: absolute;
-    top: 4483px;
-    Left: 622px;
 }
-.news-letter p{
-font-weight: 500;
-font-size: 12px;
-text-align: center;
-letter-spacing: 0.18em;
-color: #686868;
-width: 406px;
-margin-bottom: 66px;
+
+.news-letter p {
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: 0.18em;
+    color: #686868;
+    width: 406px;
+    margin-bottom: 66px;
 }
-.input{
+
+.input {
     display: flex;
     justify-content: space-between;
-    padding:0px 10px;
+    padding: 0px 10px;
     align-items: center;
     width: 353px;
-height: 49px;
-background-color: #FFFF;
-border-radius: 25px;
+    height: 49px;
+    background-color: #FFFF;
+    border-radius: 25px;
 }
-.input input{
+
+.input input {
     background: none;
     outline: none;
     border: none;
@@ -41,7 +47,8 @@ border-radius: 25px;
     color: #A3A3A3;
     font-weight: 400;
 }
-.input button{
+
+.input button {
     background-color: #D167EE;
     outline: none;
     border: none;
