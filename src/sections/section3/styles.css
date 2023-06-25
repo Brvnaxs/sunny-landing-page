@@ -6,6 +6,7 @@
     background-image: url('../../assets/Group 88.png');
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 90vw 90vh;
     display: flex;
     align-items: center;
     overflow-x: hidden;
