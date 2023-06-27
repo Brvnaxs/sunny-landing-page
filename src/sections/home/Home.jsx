@@ -20,7 +20,7 @@ export default function Home() {
                     DOWNLOAD FROM GOOGLE PLAY
                 </button>
                 <button>
-                    <FaAppStoreIos className='icon'/>
+                    <FaAppStoreIos className='icon-home'/>
                     DOWNLOAD FROM APPLE STORE
                 </button>
                 </div>
