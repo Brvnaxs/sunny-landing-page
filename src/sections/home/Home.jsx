@@ -16,7 +16,7 @@ export default function Home() {
                     Venha compartilhar e se juntar ao mundo Sunny.</p>
                     <div className='buttons'>
                 <button>
-                    <FaGooglePlay className='icon'/>
+                    <FaGooglePlay className='icon-home'/>
                     DOWNLOAD FROM GOOGLE PLAY
                 </button>
                 <button>
