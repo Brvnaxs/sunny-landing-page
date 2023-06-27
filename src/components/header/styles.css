@@ -3,17 +3,34 @@
     display: flex;
     width: 100vw;
     height: fit-content;
+    font-family: 'Baloo Paaji 2', cursive;
 }
 
-.Header img{
-    margin-right: auto;
+.header-img{
+    margin-right: 56%;
     margin-bottom: 20px;
 }
 
 .Header h3{
-    font-family: 'Baloo Paaji 2', cursive;
     font-size: 14px;
     color: #101010;
     margin-right: 25px;
     margin-top: 30px;
+}
+.Header h3:hover{
+    border-bottom: 2px solid #D167EE;
+}
+.header-entrar{
+    background-color: #D167EE;
+    font-family: 'Baloo Paaji 2', cursive;
+    border: none;
+    border-radius: 20px;
+    align-self: center;
+    width: 140px;
+    height: 39px;
+    color: #FFF;
+text-align: center;
+font-size: 16px;
+font-weight: 600;
+letter-spacing: 1.62px;
 }

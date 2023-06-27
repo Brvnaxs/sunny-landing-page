@@ -4,6 +4,7 @@
     width: 100vw;
     background: linear-gradient(180deg, #F2C7EA -16.64%, rgba(217, 217, 217, 0) 83.36%);
     margin-bottom: 60px;
+    
 }
 
 .Home {
@@ -14,6 +15,9 @@
     font-family: 'Baloo Paaji 2', cursive;
     margin-top: 140px;
     margin-bottom: 60px;
+    background-image: url('../../assets/Group 95.png');
+    background-repeat: no-repeat;
+    background-size: 100vw;
 }
 
 .tela-app {

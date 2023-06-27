@@ -1,9 +1,8 @@
 import './styles.css';
-
-export default function Card({number, title, text}) {
+export default function Card({number, title, text, color}) {
     return (
-        <div className='Card'>
-            <div className='number'>{number}</div>
+        <div className='Card'> 
+            <div className='number' id={color}>{number}</div>
             <h3>{title}</h3>
             <p>
                 {text}

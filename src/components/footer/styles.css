@@ -15,7 +15,7 @@
 .list {
     display: flex;
     flex-direction: column;
-    justify-items: center;
+    
 }
 
 .list h2 {
@@ -47,7 +47,6 @@
     display: flex;
     justify-content: space-between;
     width: 160px;
-    margin-left: 35px;
 }
 
 .icon-footer {

@@ -1,5 +1,5 @@
 import './styles.css';
-import logo from '../../assets/logo.png'
+import logo from '../../assets/Group 96.png'
 import { TfiEmail } from 'react-icons/tfi'
 import { HiOutlinePhone } from 'react-icons/hi'
 import { GrLocation } from 'react-icons/gr'
@@ -9,8 +9,8 @@ export default function Footer() {
         <div className='Footer'>
             <div className='section-one'>
                 <div className='list'>
-                    <img src={logo} alt="" />
-                    <ul>
+                    <img  className="list-img" src={logo} alt="" />
+                    <ul >
                         <li><TfiEmail className='icon-footer'/>  educa.sunny@gmail.com</li>
                         <li><HiOutlinePhone className='icon-footer'/>  +55 81 9 8817-3072</li>
                     </ul>
